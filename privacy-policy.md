@@ -1,5 +1,6 @@
-Privacy Policy for Calm StepsEffective 
-Date: November 11, 2025Calm Steps ("App," "we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application available on the Apple App Store (the "App"). By using the App, you agree to the terms of this Privacy Policy.We do not knowingly collect or solicit personal information from children under 13 years of age. If we discover we have collected personal information from a child under 13, we will delete that information promptly. For more details, see our Children's Privacy (#childrens-privacy) section below.1. Information We CollectWe minimize data collection to provide a safe, focused experience. The App may collect the following types of information:Personal Information
+Privacy Policy for Calm Steps
+Effective Date: November 11, 2025
+Calm Steps ("App," "we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application available on the Apple App Store (the "App"). By using the App, you agree to the terms of this Privacy Policy.We do not knowingly collect or solicit personal information from children under 13 years of age. If we discover we have collected personal information from a child under 13, we will delete that information promptly. For more details, see our Children's Privacy (#childrens-privacy) section below.1. Information We CollectWe minimize data collection to provide a safe, focused experience. The App may collect the following types of information:Personal Information
 •	None collected by default: The App does not require user accounts, logins, or direct entry of personal details like names, emails, or addresses. It operates offline where possible for core features (e.g., emotion-behavior exercises).
 Non-Personal Information
 •	Usage Data: Anonymized analytics on how you interact with the App, such as session duration, feature usage (e.g., which emotion tools you access), and crash reports. This helps us improve the App.
@@ -24,3 +25,4 @@ Under applicable laws (e.g., GDPR for EU users or CCPA for California residents)
 •	Apple Services: For distribution and analytics. See Apple Privacy Policy.
 Links to external sites (if added) have their own policies.8. Changes to This Privacy PolicyWe may update this policy to reflect changes in our practices. We'll notify you via in-App notices or the App Store listing for material changes. Continued use after updates means acceptance.9. Contact UsFor questions, concerns, or requests:
 This policy is governed by U.S. law. Thank you for trusting Calm Steps!
+
